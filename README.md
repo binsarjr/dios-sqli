@@ -5,5 +5,5 @@
 
 dios ini akan mengekstrak informasi target dan mengembalikan hasil dengan format JSON
 ```
-include(info-gath.txt)
+@[:code_block](info-gath.txt)
 ```
